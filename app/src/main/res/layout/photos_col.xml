@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relPhotoLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/imgView"
+        android:background="@android:color/darker_gray"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>

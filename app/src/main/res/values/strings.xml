@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Media Browser</string>
+    <string name="title_activity_photos_display">Photos</string>
+    <string name="title_activity_videos_display">Videos</string>
+    <string name="open_video_view">Open Videos</string>
+    <string name="title_activity_apps_display">Apps</string>
+    <string name="open_apps_view">Open AppList</string>
+
+
+</resources>
